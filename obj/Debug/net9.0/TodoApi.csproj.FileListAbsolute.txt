@@ -34,3 +34,4 @@ C:\Users\User\coding\TodoApi\obj\Debug\net9.0\refint\TodoApi.dll
 C:\Users\User\coding\TodoApi\obj\Debug\net9.0\TodoApi.pdb
 C:\Users\User\coding\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
 C:\Users\User\coding\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
+C:\Users\User\coding\TodoApi\obj\Debug\net9.0\TodoApi.sourcelink.json
